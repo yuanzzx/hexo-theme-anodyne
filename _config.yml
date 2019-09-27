@@ -3,7 +3,7 @@ logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/a
 
 # Index Page
 index_banner_text: Welcome to yuandragon blog
-index_banner_text_secondary: Create Websites. Make Magic.
+#index_banner_text_secondary: Create Websites. Make Magic.
 index_font_awesome_icon_css: fa fa-magic
 
 # Header
@@ -44,7 +44,7 @@ social_platforms:
     fa_icon: fa-facebook
   - url: https://dribbble.com/
     fa_icon: fa-dribbble 
-  - url: https://github.com/klugjo/hexo-theme-anodyne
+  - url: https://github.com/yuanzzx
     fa_icon: fa-github
   - url: https://plus.google.com/
     fa_icon: fa-google-plus
